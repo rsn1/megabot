@@ -1,2 +1,2 @@
 # megabot
-self-hosted discord bot in python
+minimal self-hosted discord bot in python for playing music
